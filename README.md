@@ -1,4 +1,5 @@
 # midterm1
 
-https://github.com/mtorre148/midterm1
+https://mtorre148.github.io/midterm1/
+
 
